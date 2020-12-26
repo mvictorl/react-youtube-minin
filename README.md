@@ -1,3 +1,16 @@
+# Добавление библиотеки [`prop-types`](https://ru.reactjs.org/docs/typechecking-with-proptypes.html)
+
+Проверка (валидация) типов входящих данных _(props)_ от разработчиков **React** (альтернатива использования **TypeScript**)
+
+### `npm install prop-types` 
+
+или
+
+### `yarn add prop-types`
+
+
+
+____
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
